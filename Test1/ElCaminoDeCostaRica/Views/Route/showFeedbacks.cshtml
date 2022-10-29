@@ -1,0 +1,53 @@
+﻿@model ElCaminoDeCostaRica.Models.Route
+
+<html>
+<head>
+</head>
+
+<body class="body_Index">
+
+
+    <div class="table-responsive m-lg-2">
+        <table class="table">
+            <h1 align="center" style="color: #184D47; font-family: Agrozza Demo">Lista de Evaluaciones</h1>
+            <tr style="color: #184D47">
+                <th scope="col" class="text-center">Servicio</th>
+                <th scope="col" class="text-center">Proveedor</th>
+                <th scope="col" class="text-center">Fecha</th>
+                <th scope="col" class="text-center">Rating</th>
+                <th scope="col" class="text-center">Comentarios</th>
+            </tr>
+            <tbody>
+                @foreach (var feedback in ViewBag.feedbackService)
+                {
+                    <tr>
+                        @foreach (var service in ViewBag.services)
+                        {
+                            if (service.id == feedback.idService)
+                            {
+                                <td class="text-center" scope="col"> @service.name </td>
+                                foreach (var supplier in ViewBag.suppliers)
+                                {
+                                    if (service.idSupplier == supplier.id)
+                                    {
+                                        <td class="text-center" scope="col"> @supplier.name </td>
+                                    }
+                                }
+                            }
+                        }
+                        <td class="text-center" scope="col"> @feedback.day.ToString("yyyy-MM-dd") </td>
+                        <td class="text-center" scope="col"> @feedback.rating </td>
+                        <td class="text-center" scope="col"> @feedback.comments </td>
+
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div>
+            @Html.ActionLink("Regresar", "showServices", new { identificador = TempData.Peek("stageId")}, new { @class = "btnLogin alert-info" })
+        </div>
+
+</body>
+</html>

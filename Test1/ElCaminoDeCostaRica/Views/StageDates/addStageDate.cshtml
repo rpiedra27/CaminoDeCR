@@ -1,0 +1,68 @@
+﻿@model ElCaminoDeCostaRica.Models.StageDates
+@{
+    List<SelectListItem> stages = new List<SelectListItem>();
+    foreach (var stage in ViewBag.Stages)
+    {
+        stages.Add(
+        new SelectListItem { Text = Convert.ToString(stage.name), Value = Convert.ToString(stage.id) }
+        );
+    }
+    ViewBag.Title = "addStageDate";
+}
+
+<html>
+<head>
+</head>
+<body class="body_Index">
+    @if (ViewBag.Message != null)
+    {
+        if (ViewBag.Success)
+        {
+            <div class="alert-success">
+                <h3> @ViewBag.Message </h3>
+            </div>
+        }
+        else
+        {
+            <div class="alert-danger">
+                <h3> @ViewBag.Message </h3>
+            </div>
+        }
+    }
+
+    @using (Html.BeginForm("addStageDate", "StageDates", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+        <h1 class="formTitle">Formulario de Fechas</h1>
+        <div class="form-horizontal">
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.date)
+                @Html.TextBoxFor(model => model.date, new { @type = "date" })
+                @Html.ValidationMessageFor(model => model.date, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.capacity, new { @class = "formLabel" })
+                @Html.TextBoxFor(model => model.capacity, new { @class = "formcontrol, formInput" })
+                @Html.ValidationMessageFor(model => model.capacity, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.idStage, new { @class = "formLabel" })
+                @Html.DropDownListFor(model => model.idStage, stages, "-Sin selección - ", new { @class = "form - control" })
+                @Html.ValidationMessageFor(model => model.idStage, "", new { @class = "text-danger" })
+            </div>
+
+
+        </div>
+        <div>
+
+            <input type="submit" class="btn btn-success btnCreate" value="Crear" />
+        </div>
+    }
+</body>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+</html>
+

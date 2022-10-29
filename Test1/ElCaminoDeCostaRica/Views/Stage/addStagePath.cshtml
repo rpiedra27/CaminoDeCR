@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewBag.Title = "addStagePath";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="alert-success">
+    <h3> @ViewBag.Message </h3>
+</div>
+<h1>Cree el recorrido de la etapa</h1>
+<h2>Dibuje el recorrido de la etapa dando click en el mapa para formar el camino</h2>
+
+<p hidden id="stageID">@ViewBag.newID</p>
+<p hidden id="stageRoute">@ViewBag.route</p>
+
+<div id="map"></div>
+<style>
+    #map {
+        height: 500px;
+        width: 90%;
+    }
+</style>
+<label for="place">Busque un lugar</label>
+<input type="text" id="placeInput" name="place"><br>
+<button style="margin: 10px; background-color: #FAD586; color: black;" id="searchBtn">Buscar</button>
+<button style="margin: 10px; background-color: #FAD586; color: black;" id="resetPathBtn">Borrar la línea</button><br>
+<button style="margin: 10px; background-color: #FAD586; color: black;" id="submitPathBtn">Confirmar recorrido</button>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCTYqs_Jmm73H0IRieidmcvFFvFY0DMXM&region=CR&language=es&callback=initMap&libraries=places&v=weekly"
+        defer></script>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/stageJS")
+}

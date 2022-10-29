@@ -1,0 +1,2 @@
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Release\ElCaminoDeCostaRica.Tests.csproj.AssemblyReference.cache
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Release\ElCaminoDeCostaRica.Tests.csproj.CoreCompileInputs.cache

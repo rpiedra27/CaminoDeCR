@@ -1,0 +1,61 @@
+﻿@model ElCaminoDeCostaRica.Models.Route
+@{ ViewBag.Title = "Rutas"; }
+<html>
+<head>
+</head>
+
+<body class="body_Index">
+
+    @{
+        if (ViewBag.Message != null)
+        {
+            if (ViewBag.Success)
+            {
+                <div class="alert-success">
+                    <h3> @ViewBag.Message </h3>
+                </div>
+            }
+            else
+            {
+                <div class="alert-danger">
+                    <h3> @ViewBag.Message </h3>
+                </div>
+            }
+        }
+    }
+
+    <div class="table-responsive m-lg-2">
+        <table class="table">
+            <h1 align="center" style="color: #184D47; font-family: Agrozza Demo">Lista de Secciones</h1>
+            <tr style="color: #184D47">
+                <th scope="row" class="text-center">Id</th>
+                <th scope="row" class="text-center">Nombre</th>
+                <th scope="row" class="text-center">Ruta</th>
+            <tbody>
+                @foreach (var sec in ViewBag.sections)
+                {
+                    <tr>
+                        <td class="text-center" scope="row"> @sec.id </td>
+                        <td class="text-center" scope="row"> @sec.name </td>
+                        <td class="text-center" scope="row"> @sec.idRoute </td>
+
+
+                        <td>
+                            @Html.ActionLink("Modificar", "sectionEdit", new { identificador = sec.id },
+                                      new { @class = "btnLogin alert-info", @onclick = "return confirm('¿Quiere modificar esta seccion ? ');" })
+                        </td>
+                        <td>
+                            @Html.ActionLink("Borrar", "sectionDelete", new { identificador = sec.id },
+                                  new { @class = "btnLogin alert-info", @onclick = "return confirm('¿Quiere borrar esta seccion? ');" })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+
+
+    </div>
+
+</body>
+</html>

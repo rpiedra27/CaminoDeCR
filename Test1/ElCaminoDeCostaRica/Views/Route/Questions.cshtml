@@ -1,0 +1,66 @@
+﻿@{ ViewBag.Title = "EncuestaPregunta";
+    List<SelectListItem> rating = new List<SelectListItem>() { new
+SelectListItem { Text = "1", Value= "1"},new SelectListItem { Text = "2", Value= "2"}, new SelectListItem { Text = "3", Value= "3"},
+new SelectListItem { Text = "4", Value= "4"},new SelectListItem { Text = "5", Value= "5"},};
+}
+<html>
+<head>
+</head>
+
+<body>
+
+    @using (Html.BeginForm("Questions", "Route", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+
+
+        <section class="min-vh-100 " style=" font-size:x-large;">
+            <div class="container py-5 h-100">
+                <div class="row d-flex justify-content-center align-items-center h-100">
+                    <div class="col col-xl-10">
+                        <div class="card" style="border-radius: 2rem; border-style: solid; border-color: #FAD586;">
+
+                            <h1 align="center" style="color:black; font-family:Agrozza Demo">Encuesta</h1>
+                            <h2 align="center" style="color:black; font-family:Agrozza Demo">Califique las siguientes preguntas con una escala del 1 al 5; en la que 1 es malo y 5 excelente</h2>
+
+                            <div class="seccion_1" id="s1">
+
+                                @{ var count = 0;
+                                    foreach (var question in ViewBag.questions)
+                                    {
+                                        if (question.idSurvey == ViewBag.surveys.id)
+                                        {
+                                            <div class="text-center"> @question.question </div>
+                                            <div class="text-center">@Html.DropDownList("Calificacion" + count, rating, "-Sin selección - ", new { @class = "form-control, form-Input-control" })</div>
+                                            count = +1;
+                                        }
+                                    }
+
+                                }
+                                <div class="text-center" ;style="color:black">
+                                    <br />
+                                    @Html.Label("Comentarios")
+                                    @Html.TextBox("Comentarios")
+                                </div>
+                                <div class="text-center">
+                                    <input type="submit" id="crear" class="btnLogin" value="Enviar" />
+                                </div>
+
+                            </div>
+                            
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+                                    }
+
+
+
+
+
+</body>
+</html>

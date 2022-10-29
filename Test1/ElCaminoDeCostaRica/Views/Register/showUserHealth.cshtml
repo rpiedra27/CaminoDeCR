@@ -1,0 +1,72 @@
+﻿@model ElCaminoDeCostaRica.Models.User
+@{
+
+}
+
+
+<html>
+
+<body style="color: ##184D47">
+    <section class="min-vh-100 " style=" font-size:x-large;">
+        <div class="container py-5 h-100">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col col-xl-10">
+                    <div class="card" style="border-radius: 2rem; border-style: solid; border-color: #FAD586;">
+                        <div class="row g-0 mb-7">
+                            <h1 class="formTitleCenter">Historial Medico</h1>
+                            <h2 class="center_Elements text-center">
+                                @ViewBag.User.firstName @ViewBag.User.lastName
+                                <br />
+                                Identificación : @ViewBag.User.id
+                                <br />
+                                Discapacidades o condiciones que le dificulten caminar:
+                                <br />
+                                @if (ViewBag.User.disability == "")
+                                {
+                                    <p>NO</p>
+                                }
+                                else
+                                {
+                                    @ViewBag.User.disability
+                                }
+                            </h2>
+
+
+                            @if (ViewBag.UserDiseases.Count > 0)
+                            {
+                                <table class="table">
+                                    <tr>
+                                        <th class="text-center">Enfermedad</th>
+                                        <th class="text-center">Tratamiento</th>
+                                    </tr>
+                                    <tbody>
+                                        @if (ViewBag.UserDiseases != null)
+                                        {
+                                            foreach (var disease in ViewBag.UserDiseases)
+                                            {
+                                                <tr>
+                                                    <td class="text-center">@disease.name</td>
+                                                    <td class="text-center">@disease.treatment</td>
+                                                </tr>
+                                            }
+                                        }
+                                    </tbody>
+                                </table>
+                            }
+                            else
+                            {
+                                <h2 style="text-align:center">NO presenta enfermedades</h2>
+                            }
+
+
+                            <p><a class="btnLogin m-lg-2" href="../userList">Regresar &raquo;</a></p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>

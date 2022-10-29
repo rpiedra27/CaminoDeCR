@@ -1,0 +1,57 @@
+﻿@model ElCaminoDeCostaRica.Models.StageDates
+@{
+    ViewBag.Title = "stageDateList";
+}
+
+<html>
+<head>
+</head>
+
+<body class="body_Index">
+
+
+    <div class="table-responsive m-lg-2">
+        <table class="table">
+            <h1 align="center" style="color: #184D47; font-family: Agrozza Demo">Lista de Fechas</h1>
+            <tr style="color: #184D47">
+                <th scope="row" class="text-center">Id</th>
+                <th scope="row" class="text-center">Fecha</th>
+                <th scope="row" class="text-center">Capacidad</th>
+                <th scope="row" class="text-center">Etapa</th>
+            <tbody>
+                @foreach (var date in ViewBag.dates)
+                {
+                    <tr>
+                        <td class="text-center" scope="row"> @date.id </td>
+                        <td class="text-center" scope="row"> @date.date.ToString("yyyy-MM-dd") </td>
+                        <td class="text-center" scope="row"> @date.capacity </td>
+                         @foreach (var stage in ViewBag.stage)
+                        {
+                            if (stage.id == date.idStage)
+                            {
+                                <td class="text-center"> @stage.name </td>
+                                break;
+                            }
+                        }
+
+
+                        <td>
+                            @Html.ActionLink("Modificar", "stageDatesEdit", new { identificador = date.id },
+                                      new { @class = "btnLogin alert-info", @onclick = "return confirm('¿Quiere modificar esta fecha ? ');" })
+                        </td>
+                        <td>
+                            @Html.ActionLink("Borrar", "stageDatesDelete", new { identificador = date.id },
+                                  new { @class = "btnLogin alert-info", @onclick = "return confirm('¿Quiere borrar esta ruta? ');" })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+
+
+    </div>
+
+</body>
+</html>
+

@@ -1,0 +1,108 @@
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.Tests.dll.config
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.Tests.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.Tests.pdb
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.pdb
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.dll.config
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Debug\ElCaminoDeCostaRica.Tests.csproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Debug\ElCaminoDeCostaRica.Tests.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Debug\ElCaminoDeCostaRica.Tests.csproj.CopyComplete
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Debug\ElCaminoDeCostaRica.Tests.dll
+C:\Users\cesar\Desktop\PI\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Debug\ElCaminoDeCostaRica.Tests.pdb
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.Tests.dll.config
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.Tests.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.Tests.pdb
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Razor.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.pdb
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.dll.config
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Razor.xml
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Debug\ElCaminoDeCostaRica.Tests.csproj.AssemblyReference.cache
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Debug\ElCaminoDeCostaRica.Tests.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Debug\ElCaminoDeCostaRica.Tests.csproj.CopyComplete
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Debug\ElCaminoDeCostaRica.Tests.dll
+D:\Visual Studio\Repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Debug\ElCaminoDeCostaRica.Tests.pdb
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.Tests.dll.config
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.Tests.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.Tests.pdb
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\WebGrease.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.pdb
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\ElCaminoDeCostaRica.dll.config
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Debug\ElCaminoDeCostaRica.Tests.csproj.AssemblyReference.cache
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Debug\ElCaminoDeCostaRica.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Debug\ElCaminoDeCostaRica.Tests.csproj.CopyComplete
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Debug\ElCaminoDeCostaRica.Tests.dll
+C:\Users\jose1\source\repos\proyectointegrado-elcaminodecostarica\ElCaminoDeCostaRica\ElCaminoDeCostaRica.Tests\obj\Debug\ElCaminoDeCostaRica.Tests.pdb

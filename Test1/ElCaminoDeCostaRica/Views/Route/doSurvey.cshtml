@@ -1,0 +1,76 @@
+﻿@{
+    ViewBag.Title = "Confirmar codigo";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+</head>
+
+<section class="min-vh-100 " style=" font-size:x-large;">
+    <div class="container py-5 h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col col-xl-10">
+                <div class="card" style="border-radius: 4rem; border-style: solid; border-color: #FAD586;">
+                    <div class="row g-0 mb-7">
+
+                        <div class="col-md-6 col-lg-5 d-none d-md-block" ;>
+                            <img src="https://cdn-icons-png.flaticon.com/512/467/467129.png"
+                                 alt="login form" class="img-fluid" style="border-radius: 1rem 0 0 1rem; margin: 6px 10px" />
+                        </div>
+
+                        <div class="col-md-6 col-lg-7 d-flex align-items-center" style="font-size:x-large">
+                            <div class="card-body p-4 p-lg-5 text-black">
+
+
+                                
+
+                                    <h1 class="fw-normal mb-3 pb-3" style="letter-spacing: 1px; color: #184D47">Inserte su Código de Inscripción</h1>
+                                    <h3 class="fw-normal mb-3 pb-3" style="letter-spacing: 1px; color: #184D47">Fue enviado a su correo electronico</h3>
+
+                                    @if (ViewBag.Success != null)
+                                    {
+                                        if (ViewBag.Success)
+                                        {
+                                            TempData.Remove("Code");
+                                        }
+                                        <div class="alert-danger">
+                                            <h3> @ViewBag.Message </h3>
+                                        </div>
+                                    }
+
+
+                                    @using (Html.BeginForm("doSurvey", "Route", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                                    {
+                                        <div>
+                                            <p>Ingrese el código de inscripcion</p>
+                                            <input type="text" id="userCode" name="userCode" class="inputCode form-control-lg" />
+                                        </div>
+
+                                        <div>
+                                            <input type="submit" name="submitButton" class="btnLogin" value="Confirmar" />
+                                            <input type="submit" name="submitButton" class="btnLogin" value="Regresar" />
+                                        </div>
+                                    }
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+<body>
+  
+
+</body>
+</html>
